@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card1 {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  height: 300px;
+  width: 500px;
+  padding: 25px;
+}
